@@ -35,10 +35,6 @@ public class Vehicule {
 		
 	}
 	
-	public void demarrer() {
-		System.out.println("Go -"+ this.modele +"démarre");
-		
-	}
 
 
 	public void seDeplacer(int nb) {
